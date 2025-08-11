@@ -1,4 +1,4 @@
-YHAPLO LICENSE
+PRSformer LICENSE
 
 Copyright (c) 2025, 23ANDME, INC. All rights reserved.
 
