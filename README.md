@@ -45,7 +45,7 @@ If you use PRSformer, please cite the paper:
 
 
 ## Acknowledgements
-The authors thank the past and present employees and research participants of 23andMe for making this work possible. We are grateful to Akele Reed, Teague Sterling, David Hinds, Steve Pitts, Wei Wang, Bertram Koelsch, Michael Holmes, Stella Aslibekyan, Cordell Blakkan and Barry Hicks for their valuable contributions and insightful comments on the manuscript, and to Ali Hassani for helpful discussions on employing Neighborhood Attention. The authors also gratefully acknowledge the support of AWS for providing GPU computing resources and credits. AAK is supported in part by a Chan Zuckerberg Investigator Award.
+The authors thank the past and present employees and research participants of 23andMe for making this work possible. We are grateful to Akele Reed, Teague Sterling, David Hinds, Steve Pitts, Wei Wang, Bertram Koelsch, Michael Holmes, Stella Aslibekyan, Cordell Blakkan and Barry Hicks for their valuable contributions and insightful comments on the manuscript, and to Ali Hassani for helpful discussions on employing Neighborhood Attention. The authors also gratefully acknowledge the support of AWS for providing GPU computing resources and credits. A. A. Khan is supported in part by a Chan Zuckerberg Investigator Award.
 
 ## License
 Released under a **23andMe Research License**. See [`LICENSE.txt`](./LICENSE.txt) for full terms.
