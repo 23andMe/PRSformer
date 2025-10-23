@@ -1,7 +1,9 @@
 # PRSformer: Disease Prediction from Million-Scale Individual Genotypes
-
 [![Conference](https://img.shields.io/badge/NeurIPS-2025-blue)](#-citation)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg)](https://pytorch.org/)
+
+**Authors:** Payam Dibaeinia, Chris German, Suyash Shringarpure, Adam Auton, Aly A. Khan
+
 
 ## Overview
 
@@ -43,7 +45,7 @@ If you use PRSformer, please cite the paper:
 
 
 ## Acknowledgements
-The authors thank the past and present employees and research participants of 23andMe for making this work possible. We are grateful to Akele Reed, Teague Sterling, David Hinds, Steve Pitts, Wei Wang, Bertram Koelsch, Michael Holmes, Stella Aslibekyan, Cordell Blakkan and Barry Hicks for their valuable contributions and insightful comments on the manuscript, and to Ali Hassani for helpful discussions on employing Neighborhood Attention. The authors also gratefully acknowledge the support of AWS for providing GPU computing resources and credits. Aly Khan is supported in part by a Chan Zuckerberg Investigator Award.
+The authors thank the past and present employees and research participants of 23andMe for making this work possible. We are grateful to Akele Reed, Teague Sterling, David Hinds, Steve Pitts, Wei Wang, Bertram Koelsch, Michael Holmes, Stella Aslibekyan, Cordell Blakkan and Barry Hicks for their valuable contributions and insightful comments on the manuscript, and to Ali Hassani for helpful discussions on employing Neighborhood Attention. The authors also gratefully acknowledge the support of AWS for providing GPU computing resources and credits. AAK is supported in part by a Chan Zuckerberg Investigator Award.
 
 ## License
 Released under a **23andMe Research License**. See [`LICENSE.txt`](./LICENSE.txt) for full terms.
